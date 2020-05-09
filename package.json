@@ -1,0 +1,19 @@
+{
+  "name": "web-worker",
+  "version": "1.0.0",
+  "description": "it is a nice web-worker",
+  "main": "index.js",
+  "repository": "https://github.com/mynzk/worker-emitter.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "zhang kui <1627528424@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@type-config/strict": "^1.0.2",
+    "@types/uuid": "^7.0.3",
+    "typescript": "^3.8.3",
+    "uuid": "^8.0.0"
+  }
+}
